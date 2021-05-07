@@ -18,10 +18,10 @@
 
 - 4. Terminal 里的命令如果错误的话，直接打 fuck，这个项目就会自动帮帮你修改，然后执行
 
-  比如你打 apt-get install XXX
+  比如你打 `apt-get install XXX`
   
-  然后提示 permission denied
+  然后提示 `permission denied`
   
-  这个时候执行 fuck
+  这个时候执行 `fuck`
   
-  就会自动帮你执行 sudo apt-get
+  就会自动帮你执行 `sudo apt-get`
